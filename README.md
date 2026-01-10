@@ -9,6 +9,6 @@ Article Link: https://www.freecodecamp.org/news/building-chrome-extension/
 Tech Stack:
 HTML
 CSS
-Manifest JSON 
+Manifest JSON (manifest.json file) 
 Bootstrap Framework
 Javascript
