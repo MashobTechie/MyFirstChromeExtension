@@ -11,3 +11,4 @@ HTML
 CSS
 Manifest JSON 
 Bootstrap Framework
+Javascript
