@@ -1,11 +1,14 @@
 {
     "name": "Covid-19 Stats UK",
     "version": "1.0.0",
-    "description": "latest covid data of UK",
+    "description": "Latest covid data of UK",
     "manifest_version": 3,
     "author": "MashobTechie",
     "action": {
         "default_popup": "index.html",
         "default_title": "Latest Covid Report"
-    }
+    },
+    "host_permissions": [
+        "https://disease.sh/*"
+    ]
 }
